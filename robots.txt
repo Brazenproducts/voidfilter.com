@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://voidfilter.com/sitemap.xml
